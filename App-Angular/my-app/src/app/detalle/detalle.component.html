@@ -1,0 +1,14 @@
+<div class='bg-white mt-4 rounded-3'> <hr/>
+    <h3 class='p-2'>Detalle de producto</h3>
+    <div class='row'>
+        <div class='col-8'>
+            <img src={{proDetalle.ruta}} class='rounded-3 mb-2 p-3 ancho'/>
+        </div>
+        <div class='col-4'>
+            <span class="card-title text-secondary"><strong>{{proDetalle.nombre}}</strong></span><br/>
+            <span class="card-text">Precio: </span>{{proDetalle.precio}}<span class='text-primary'></span> <br/>
+            <span class="card-text">Unidades disponibles: </span>{{proDetalle.cantidad}}<span class='text-primary'></span><br/><br/><br/>
+            <a class="btn text-danger rounded" role="button" (click)="handleVolver(false)">Volver</a>
+        </div>
+    </div>
+</div>

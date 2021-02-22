@@ -1,0 +1,25 @@
+{
+    "products": [
+            {"id":1,"nombre":"aguacate","cantidad":10,"ruta":"https://barhamavocados.com.au/wp-content/uploads/2014/05/bacon1.png","precio":1},
+            {"id":2,"nombre":"ajo","cantidad":100,"ruta":"https://meatshop.gt/image/cache/catalog/Productos/Mercado/frutas-y-verduras-a-domicilio-en-guatemala-ajo-1200x1200.jpg","precio":3},
+            {"id":3,"nombre":"almendras","cantidad":30,"ruta":"https://tumundogourmet.cl/wp-content/uploads/2020/06/Almendras-enteras.jpg","precio":3},
+            {"id":4,"nombre":"arandanos","cantidad":23,"ruta":"https://www.hola.com/imagenes/cocina/noticiaslibros/20200505167186/diferencia-arandanos-rojos-azules/0-819-201/arandanos-diferencias-m.jpg","precio":1},
+            {"id":5,"nombre":"brocoli","cantidad":15,"ruta":"https://www.smoker-cooking.com/images/broccoli-crown-halves-raw-1x1.jpg","precio":4},
+            {"id":6,"nombre":"calabaza","cantidad":5,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/otramedicina/1/156791671.jpg","precio":3},
+            {"id":7,"nombre":"canela","cantidad":65,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/otramedicina/P/Propiedades-de-la-canela-1_0.jpg","precio":3},
+            {"id":8,"nombre":"cebolla","cantidad":34,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/p/propiedades-curativas-de-la-cebolla-1.jpg","precio":5},
+            {"id":9,"nombre":"fresas","cantidad":56,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/elgranchef/t/tartaletas-de-fresa.jpg","precio":6},
+            {"id":10,"nombre":"kiwi","cantidad":32,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/vivirsalud/B/Beneficios-del-kiwi.jpg","precio":4},
+            {"id":11,"nombre":"limon","cantidad":34,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/imujer/4/4-beneficios-del-limon-en-tu-belleza-5.jpg?itok=Zeho5aaI","precio":2},
+            {"id":12,"nombre":"maiz","cantidad":23,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/otramedicina/1/134173335.jpg","precio":2},
+            {"id":13,"nombre":"manzana","cantidad":54,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/vivirsalud/1/108671514(1).jpg","precio":4},
+            {"id":14,"nombre":"naranja","cantidad":23,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/otramedicina/1/136624847.jpg","precio":7},
+            {"id":15,"nombre":"papa","cantidad":54,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/otramedicina/p/papa.jpg","precio":3},
+            {"id":16,"nombre":"lechuga","cantidad":12,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/lettuce-933180_640.jpg","precio":2},
+            {"id":17,"nombre":"tomate","cantidad":54,"ruta":"https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/otramedicina/m/medfrd3855.jpg","precio":5}
+    ],
+
+    "user": [
+        {"email": "darubio@mail.com","psw": "Abretesesamo1!"}
+    ]
+}

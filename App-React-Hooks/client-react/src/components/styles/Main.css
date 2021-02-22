@@ -1,0 +1,10 @@
+.Container {
+    background-image: url(../images/main-fondo.jpg);
+    background-repeat: repeat;
+    background-position: fixed;
+    min-height: 1000px;
+}
+
+.detalleimg {
+    max-width: 40rem;
+}
